@@ -1,0 +1,1 @@
+Copy and Paste Stockfish Engine and edit name "stockfish"
